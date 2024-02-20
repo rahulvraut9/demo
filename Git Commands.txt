@@ -3,4 +3,4 @@ git add README.md
 git add .
 git commit -m "first commit"
 git remote add origin https://github.com/userName/repoName.git
-git push --force origin master
+git push --force origin master or git push -u origin master
